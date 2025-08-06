@@ -49,5 +49,5 @@ This project implements and compares three convolutional neural network architec
 
 Parth Hasolkar  
 LinkedIn: https://www.linkedin.com/in/parth-p-h  
-LeetCode: https://leetcode.com/YOUR_USERNAME  
+LeetCode: https://leetcode.com/u/parth_hasolkar/
 Email: parthhasolkar09@gmail.com
